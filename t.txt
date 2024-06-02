@@ -1,0 +1,24 @@
+pyarmor pack -e " --advanced 1" --output dist file.py && \
+pyarmor pack -e " --advanced 1" --output dist GARSEC.py && \
+pyarmor pack -e " --advanced 1" --output dist all.py && \
+pyarmor pack -e " --advanced 1" --output dist chek.py && \
+pyarmor pack -e " --advanced 1" --output dist grab.py && \
+pyarmor pack -e " --advanced 1" --output dist l.py && \
+pyarmor pack -e " --advanced 1" --output dist revip.py && \
+pyarmor pack -e " --advanced 1" --output dist tld.py && \
+pyarmor pack -e " --advanced 1" --output dist add.py && \
+pyarmor pack -e " --advanced 1" --output dist auto.py && \
+pyarmor pack -e " --advanced 1" --output dist cpanel.py && \
+pyarmor pack -e " --advanced 1" --output dist finder.py && \
+pyarmor pack -e " --advanced 1" --output dist grabb.py && \
+pyarmor pack -e " --advanced 1" --output dist multi.py && \
+pyarmor pack -e " --advanced 1" --output dist run.py && \
+pyarmor pack -e " --advanced 1" --output dist v.py && \
+pyarmor pack -e " --advanced 1" --output dist admin.py && \
+pyarmor pack -e " --advanced 1" --output dist backlink.py && \
+pyarmor pack -e " --advanced 1" --output dist cp.py && \
+pyarmor pack -e " --advanced 1" --output dist gas.py && \
+pyarmor pack -e " --advanced 1" --output dist ip.py && \
+pyarmor pack -e " --advanced 1" --output dist wp.py && \
+pyarmor pack -e " --advanced 1" --output dist pma.py && \
+pyarmor pack -e " --advanced 1" --output dist scan.py
